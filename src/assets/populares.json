@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "path": "img/populares/foto-1.png"
+    },
+    {
+        "id": 2,
+        "path": "img/populares/foto-2.png"
+    },
+    {
+        "id": 3,
+        "path": "img/populares/foto-3.png"
+    },
+    {
+        "id": 4,
+        "path": "img/populares/foto-4.png"
+    },
+    {
+        "id": 5,
+        "path": "img/populares/foto-5.png"
+    }
+]
